@@ -8,7 +8,8 @@ This is an e-commerce web app designed with the intention to serve clients based
 
 - Deployed Site: [Link to Deployed Site](https://bdot.pythonanywhere.com/)
 - Final Project Blog Article: [Link to Blog Article](https://www.linkedin.com/posts/bidemi-okunade-415a38241_my-journey-building-an-e-commerce-app-challenges-activity-7087509830831083522-K5Vq?utm_source=share&utm_medium=member_desktop)
-- Author(s) LinkedIn: [Okunade Bidemi](Https://Www.linkedin.com/in/bidemi-okunade-415a382411)[Jihnclinton Luseno](https://www.linkedin.com/in/johnclinton-luseno-737531164/)
+- Author(s) LinkedIn: [Okunade Bidemi](Https://Www.linkedin.com/in/bidemi-okunade-415a382411)
+[Jihnclinton Luseno](https://www.linkedin.com/in/johnclinton-luseno-737531164/)
 
 
 ## Installation
