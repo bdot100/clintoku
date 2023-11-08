@@ -4,9 +4,11 @@
 
 ## Introduction
 
-This is an e-commerce web app designed with the intention to serve clients based on the eseential features of an e-commerce web app, such as product listings, secure payments, intuitive user interfaces, and fast delivery structure.
+This is an e-commerce web app designed with the intention to serve clients based on the essential features of an e-commerce web app, such as product listings, secure payments, intuitive user interfaces, and fast delivery structure.
 
 - Author(s) LinkedIn: [Okunade Bidemi](Https://Www.linkedin.com/in/bidemi-okunade-415a382411)
+[Johnclinton Luseno](https://www.linkedin.com/in/johnclinton-luseno-737531164/)
+
 
 ## Installation
 
